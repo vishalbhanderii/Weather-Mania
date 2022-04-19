@@ -5,6 +5,8 @@
       <map>
         <entry key="..\:/Android Projects/Weather-Mania/app/src/main/res/drawable/sunny.xml" value="0.244" />
         <entry key="..\:/Android Projects/Weather-Mania/app/src/main/res/layout/activity_main.xml" value="0.3651041666666667" />
+        <entry key="..\:/Android Projects/Weather-Mania/app/src/main/res/layout/activity_weather_detail.xml" value="0.3651041666666667" />
+        <entry key="..\:/Android Projects/Weather-Mania/app/src/main/res/layout/weather_list_item.xml" value="0.3651041666666667" />
         <entry key="..\:/Android Projects/Weather-Mania/app/src/main/res/menu-v26/search_menu.xml" value="0.2778438367023385" />
       </map>
     </option>
